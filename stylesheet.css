@@ -1,0 +1,397 @@
+*{
+	margin:0%;
+}
+.top{
+	display: flex;
+	background-color: white;
+	padding-bottom: 0.2%;
+	padding-top: 0.1;
+}
+.top img{
+	width:15%;
+	margin-left:5%;
+}
+.top>a{
+	padding-top: 2%;
+	padding-bottom: 1%;
+	text-decoration: none;
+	padding-left:5%;
+	font-size: 1.2rem;
+	color: black;
+}
+button{
+	width:10%;
+	border-radius: 25px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left:5%;
+	background-color: skyblue;
+	border: none;
+	color: white;
+}
+.kyc {
+	background-color: rgba(128, 128, 128,0.2);
+	padding-top:0.2%;
+	padding-left: 27%;
+    padding-bottom: 1%;
+}
+.kyc a{
+	text-decoration: none;
+	color: black;
+}
+.first{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 8%;
+	padding-bottom: 1%;
+}
+.one h1{
+	font-size: 2.5rem;
+	margin-top: 12%;
+}
+.one p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+}
+.one a{
+    border-width:10px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:4% 7%;
+
+}
+.two{
+	margin-top: 10%;
+	margin-right: 1%;
+
+}
+.download i{
+	margin-left: 2%;
+}
+.download:hover{
+	background-color: white;
+	color:black;
+	border:1px solid black;
+}
+.second{
+	background-color: deepskyblue;
+	
+	}
+.second img{
+	display:flex;
+}
+.second h1{
+	margin-top:10%;
+	padding-top: 5%;
+	padding-bottom: 3%;
+	font-size: 2rem;
+	color: white;
+	font-family: sans-serif;
+
+}
+.bills {
+	display: flex;
+	padding-bottom: 5%;
+	color: white;
+	font-family: sans-serif;
+	font-size: 1rem;
+}
+.bills p{
+	padding-top: 12%;
+}
+.i1{
+	width:50%;
+    padding-bottom: 7%;
+}
+.i2{
+    width:50%;
+   padding-bottom:7;
+}
+.i3{
+	width:50%;
+	padding-bottom:7;
+
+}
+.i4{
+	width:50%;
+	padding-bottom:7;
+	}
+.i5{
+    width: 35%;
+    padding-bottom:7;
+   
+
+}
+.i6{
+    width:27%;
+   padding-bottom:7;
+}
+.i7{
+    width:35%;
+    padding-bottom:7;
+}
+.third{
+	background-color: darkblue;
+	padding-bottom: 5%;
+}
+.tickets{
+	display:flex;
+
+
+}
+.tickets img{
+	width:45%;
+	display: flex;
+	padding-bottom: 5%;
+	color: white;
+	font-family: sans-serif;
+	font-size: 1rem;
+	}
+	.tickets p{
+		padding-bottom: 5%;
+		color: white;
+		font-family: sans-serif;
+	}
+.third h1{
+	
+	padding-top: 5%;
+	padding-bottom: 3%;
+	font-size: 2rem;
+	color: white;
+	font-family: sans-serif;
+}
+.payi{
+	background-color:rgba(128, 128, 128,0.1);
+	padding-top: 10%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	font-family: sans-serif;
+	font-size: 2.5rem;
+}
+.four{
+	background-color:white;
+	padding-bottom: 50%;
+}
+.four h1{
+	background-color: 
+	padding-top: 10%;
+	padding-top: 3%;
+	padding-bottom: 4%;
+	padding-left: 2%;
+	font-size: 2.5rem;
+	font-family: sans-serif;
+}
+.wallet{
+	padding-left: 10%;
+	font-family: sans-serif;
+
+
+}
+.wallet a{
+	text-decoration: none;
+	border-width:10px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin-top: 10%;
+    padding:2% 5%;
+}
+.wallet p{
+	font-size: 1rem;
+	padding-bottom: 7%;
+}
+.wallet h1{
+	padding-left: 1.5%;
+	font-size: 2rem;
+
+}
+.d2:hover{
+	background-color: white;
+	color:black;
+	border:1px solid black;
+}
+.four{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 8%;
+	padding-bottom: 1%;
+}
+.five{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 8%;
+	padding-bottom: 1%;
+}
+.upi{
+	padding-left: 10%;
+	font-family: sans-serif;
+}
+.upi h1{
+	font-size: 2.5rem;
+	margin-top: 12%;
+}
+.upi p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+}
+.upi a{
+    border-width:10px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:4% 7%;
+}
+.six{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 8%;
+	padding-bottom: 1%;
+}
+.postpaid{
+	padding-left: 10%;
+	font-family: sans-serif;
+}
+.postpaid h1{
+	font-size: 2.5rem;
+	margin-top: 12%;
+}
+.postpaid p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+}
+.postpaid a{
+    border-width:10px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:3% 6%;
+}
+.seven{
+	background-color:rgba(128, 128, 128,0.1) ;
+	display: flex;
+	padding-top: 5%;
+	padding-bottom: 10%;
+}
+.hdfc{
+	background-color: white;
+    padding-left: 10%;
+    margin-right:2%;
+    margin-left: 2%;
+}
+.hdfc h1{
+	font-size: 2.5rem;
+	margin-top: 3%;
+	font-family: sans-serif;
+	padding-bottom: 3%;
+}
+.hdfc p{
+	font-size: 1rem;
+	padding-bottom: 5%;
+	font-family: sans-serif;
+	
+}
+.sbi{
+	background-color: white;
+    padding-left: 10%;
+    padding-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.sbi h1{
+	font-size: 2.5rem;
+	margin-top: 3%;
+	font-family: sans-serif;
+	padding-bottom: 3%;
+}
+.sbi p{
+	font-size: 1rem;
+	padding-bottom: 5%;
+	font-family: sans-serif;
+	
+}
+.finance{
+	padding-left:2%;
+	padding-top: 5%;
+	padding-bottom: 4%;
+	font-family: sans-serif;
+	font-size: 3rem;
+}
+.eight{
+	display: flex;
+	padding-bottom: 10%;
+}
+.paytmbank{
+	padding-left: 2%;
+	font-family: sans-serif;
+}
+.paytmbank h1{
+	font-size: 2.5rem;
+	margin-top: 12%;
+}
+.paytmbank p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+}
+.paytmbank a{
+    border-width:10px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:3% 7%;
+}
+.bank{
+	padding-left: 20%;
+}
+.nine{
+	display:flex;
+	background-color:rgba(128, 128, 128,0.1) ;
+	padding:7% 2%;
+}
+.paytmbank{
+	padding-left: 2%;
+	font-family: sans-serif;
+}
+.paytmmoney{
+	padding-left: 20%;
+}
+.paytmmoney h1{
+	font-size: 2.5rem;
+	margin-top: 12%;
+	font-family: sans-serif;
+	padding-bottom: 3%;
+}
+.paytmmoney p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+	font-weight:solid ;
+}
+.paytmmoney a{
+    border-width:10px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:3% 7%;
+}
+
+
+
+
+
+
+
+
+
+
+
