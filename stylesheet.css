@@ -1,3 +1,4 @@
+
 *{
 	margin:0%;
 }
@@ -78,60 +79,45 @@ button{
 }
 .second{
 	background-color: deepskyblue;
-	
-	}
-.second img{
-	display:flex;
-}
-.second h1{
-	margin-top:10%;
-	padding-top: 5%;
-	padding-bottom: 3%;
-	font-size: 2rem;
-	color: white;
-	font-family: sans-serif;
+	padding-bottom: 5%;
 
 }
-.bills {
+.bills{
 	display: flex;
-	padding-bottom: 5%;
-	color: white;
-	font-family: sans-serif;
-	font-size: 1rem;
+}
+.prepaid{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
+}
+.elecbill{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
+}
+.dth{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
+}
+.gas{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
+}
+.broadband{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
+}
+.education{
+	width:15%;
+	padding-top: 5%;
+	padding-left: 2%;
 }
 .bills p{
-	padding-top: 12%;
-}
-.i1{
-	width:50%;
-    padding-bottom: 7%;
-}
-.i2{
-    width:50%;
-   padding-bottom:7;
-}
-.i3{
-	width:50%;
-	padding-bottom:7;
-
-}
-.i4{
-	width:50%;
-	padding-bottom:7;
-	}
-.i5{
-    width: 35%;
-    padding-bottom:7;
-   
-
-}
-.i6{
-    width:27%;
-   padding-bottom:7;
-}
-.i7{
-    width:35%;
-    padding-bottom:7;
+	font-family: sans-serif;
+	color: white;
 }
 .third{
 	background-color: darkblue;
@@ -149,12 +135,12 @@ button{
 	color: white;
 	font-family: sans-serif;
 	font-size: 1rem;
-	}
-	.tickets p{
-		padding-bottom: 5%;
-		color: white;
-		font-family: sans-serif;
-	}
+}
+.tickets p{
+	padding-bottom: 5%;
+	color: white;
+	font-family: sans-serif;
+}
 .third h1{
 	
 	padding-top: 5%;
@@ -384,7 +370,320 @@ button{
     margin-top: 20%;
     padding:3% 7%;
 }
+.ten{
+	display: flex;
+	padding-top: 7%;
+	padding-bottom: 10%;
+}
+.insurance{
+	padding-left: 2%;
+	padding-top: 1%;
+}
 
+.insurance h1{
+	font-size: 2.5rem;
+	margin-top: 6%;
+	font-family: sans-serif;
+	padding-bottom: 3%;
+}
+.insurance p{
+	font-size: 1rem;
+	padding-bottom: 10%;
+	font-weight:solid ;
+	font-family: sans-serif;
+}
+.insurance a{
+    border-width:10px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:2% 7%;
+    font-family: sans-serif;
+}
+.b1{
+	padding-bottom: 1%;
+	padding-left: 2%;
+	font-size: 2.5rem;
+	font-family: sans-serif;
+
+}
+.eleven{
+	background-color: white;
+	display: flex;
+	margin-left: 2%;
+    margin-bottom: 5%;
+	padding-top: 5%;
+
+}
+.image11{
+	background-color: rgba(128, 128, 128,0.1);
+	margin-right: 2%;
+	padding-left: 20%;
+	padding-top: 7%;
+	padding-bottom: 5%;
+}
+.buisness{
+	background-color: rgba(128, 128, 128,0.1);
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom:5% ;
+    
+}
+.buisness h1{
+	font-size: 2rem;
+	margin-top: 6%;
+	font-family: sans-serif;
+	padding-bottom: 4%;
+}
+.buisness p{
+	font-size: 1rem;
+	padding-bottom: 5%;
+	font-weight:solid ;
+	font-family: sans-serif;
+}
+.buisness a{
+    border-width:10px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 20%;
+    padding:2% 7%;
+    font-family: sans-serif;
+}
+.twelve{
+	display: flex;
+	background-color:rgba(128, 128, 128,0.1);
+	margin-left: 2%;
+	margin-right: 2%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin-bottom: 5%;
+}
+.inshop{
+	padding-left: 10%;
+	margin-left: 2%;
+
+}
+.inshop h1{
+	font-size: 2rem;
+	font-family: sans-serif;
+}
+.inshop p{
+	font-family: sans-serif;
+	padding-top: 2%;
+	padding-bottom: 5%;
+
+}
+.inshop a{
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 1rem;
+	border-width: 10px;
+	border-radius: 15px;
+	background-color: blue;
+	padding:2% 5%;
+	color: white;
+}
+.image12{
+	padding-left: 15%;
+}
+.toolsh{
+	padding-left: 3%;
+	font-family: sans-serif;
+	font-size: 2rem;
+	padding-top: 10%;
+	padding-bottom: 5%;
+
+}
+.tools{
+	display: flex;
+	padding-left: 2%;
+
+}
+.tools img{
+	padding-bottom: 3%;
+}
+.img3{
+	padding-left: 5%;
+}
+.img4{
+	padding-left: 7%;
+}
+.tools h1{
+	margin-top: 3%;
+	margin-bottom: 3%;
+	font-family: sans-serif;
+}
+.tools p{
+	padding-top: 8%;
+	font-family: sans-serif;
+	font-size: 1rem;
+	padding-bottom: 5%;
+}
+.tools a{
+	padding-top: 3%;
+	text-decoration: none;
+	color: black;
+    font-family: sans-serif;
+    font-size: 1rem;
+
+}
+.thirteen{
+	margin-bottom: 30%;
+}
+.fourteen{
+	margin-bottom: 15%;
+	padding-top: 10%;
+	display: flex;
+	}
+.pm{
+	font-family: sans-serif;
+	padding-left: 6%;
+	padding-right: 3%;
+
+}
+.pm a{
+     text-decoration: none;
+     color:deepskyblue;
+     font-size: 1rem;
+}
+.pm img{
+	padding-bottom: 20%;
+}
+.pm p{
+	padding-bottom: 3%;
+
+}
+.pi{
+	display:flex;
+	justify-content: space-between;
+
+}
+.pi h3{
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+}
+.pm1{
+	background-color: skyblue;
+	width:23%;
+	padding:1%;
+	margin-right: 2%;
+	border-radius: 5px;
+	
+}
+.pm1 img{
+	width:100%;
+}
+
+
+
+
+
+.fifteen{
+	display: flex;
+	margin-bottom: 5%;
+}
+
+
+.pt{
+	font-family: sans-serif;
+	padding-left: 5%;
+	padding-right: 2%;
+	font-size: 1rem;
+
+}
+.pt a{
+	color: deepskyblue;
+	padding-top: 3%;
+}
+.pt img{
+	padding-bottom: 5%;
+
+}
+.payt{
+	display: flex;
+}
+.payt img{
+	padding-top: 2%;
+	margin-top: 5%;
+}
+.payt h3 {
+	color: white;
+}
+.payt1 h5{
+	color: white;
+}
+.payt1{
+	background-color: skyblue;
+	border-width: 3px;
+	border-radius: 10px;
+	padding-left: 2%;
+	
+}
+.payt2{
+	background-color: skyblue;
+	border-width: 3px;
+	border-radius: 10px;
+	padding-left: 2%;
+	margin-left: 4%;
+}
+.payt3{
+	background-color: skyblue;
+	border-width: 3px;
+	border-radius: 10px;
+	padding-left: 2%;
+	margin-left: 4%;
+
+}
+.payt4{
+	background-color: skyblue;
+	border-width: 3px;
+	border-radius: 10px;
+	padding-left: 2%;
+	margin-left: 4%;
+
+}
+	.sixteen{
+		background-color:rgba(128, 128, 128,0.1);
+		
+		font-family: sans-serif;
+	}
+	.sixteen p{
+		padding-top: 2%;
+		padding-bottom: 2%;
+	}
+	.footer{
+		display: flex;
+		padding-bottom: 2%;
+	}
+	.footer h3{
+		
+		padding-left: 2%;
+		width: 25%;
+		
+	}
+	.footer img{
+		
+	}
+	.fimg{
+		margin-right: 40%;
+		margin-left: 2%;
+	}
+	.sixteen p{
+		display: inline;
+		margin-bottom: 5%;
+	}
+	.sixteen hr{
+		width:80%;
+		vertical-align: bottom;
+		margin-left: 3%;
+		display: inline-block;
+	}
+	
 
 
 
